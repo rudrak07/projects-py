@@ -5,7 +5,7 @@ from tkinter import ttk
 from PIL import Image, ImageTk
 from ttkbootstrap import Style
 
-# create the main window
+# create the main window RuDra KannoJiya
 root = tk.Tk()
 root.title("Image Generator")
 root.geometry("700x500")
